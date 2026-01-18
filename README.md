@@ -1,72 +1,79 @@
-<img src="images/svg/header_en.svg"></img>
-
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_ar.md"><img src="images/eg-flag.png" height="13"> العربية</a></td></tr>
-</table>
-
-### :space_invader: &nbsp;About Me
-
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Front-End Developer focused on building clean, responsive, and user-friendly web interfaces.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about UI/UX design and responsive layouts.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Continuously improving skills through projects and real UI implementations.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Egypt.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Zeinab Hassan</h1>
+<h3 align="center">Front-End Developer | Building clean & responsive web interfaces</h3>
 
 <p align="center">
-  <a href="mailto:zeinabhassn123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zeinab-hassan-65a6a127b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zeinab968&label=Profile%20views&color=0e75b6&style=flat" alt="zeinab968" />
 </p>
 
-<hr/>
+---
 
-<details>
-  <summary><b>:computer: &nbsp;Main Tech Stack</b></summary>
-  <br/>
+## 👩‍💻 About Me
 
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) &nbsp;
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) &nbsp;
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) &nbsp;
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) &nbsp;
-![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) &nbsp;
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) &nbsp;
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) &nbsp;
-![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) &nbsp;
+- 🌱 Front-End Developer passionate about **UI/UX & responsive design**
+- 💡 I love turning designs into **interactive web experiences**
+- 🧩 Strong focus on **clean code & reusable components**
+- 🚀 Currently improving my skills in **React & modern CSS frameworks**
+- 📍 Based in **Egypt**
 
-</details>
+---
 
-<details>
-  <summary><b>:rocket: &nbsp;Projects</b></summary>
-  <br/>
+## 🛠️ Skills & Technologies
 
-- **Home_page_proj** – Home page layout using HTML & CSS  
-- **Cars-Website** – Responsive car website UI  
-- **Followers-Store** – Front-end store layout  
-- **Muslim** – HTML-based content project  
-- **Your-cat-s-type** – Fun HTML project  
-- **Zainab_Hassn** – Personal practice repository  
+### 🌐 Front-End
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
-</details>
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-  <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=zeinab-hassan&hide_border=true&theme=nightowl" />
-  </p>
-  <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zeinab-hassan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinab-hassan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-  </p>
-</details>
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-<hr/>
+---
+
+## 📂 Featured Projects
+
+- ⭐ **Movie Rating App (React)**
+- 🚗 **Cars Website (HTML & CSS)**
+- 🛍️ **Followers Store UI**
+- 🐱 **Fun HTML Projects**
+
+👉 Check my repositories to see more!
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  ✨ Thanks for visiting my GitHub profile ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinab968&show_icons=true&theme=nightowl&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinab968&layout=compact&theme=nightowl&hide_border=true" height="150"/>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zeinab-hassan&style=plastic&label=Views"><img>
-  <img src="https://badges.pufler.dev/visits/zeinab-hassan/zeinab-hassan?color=black&logo=github" />
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/zeinab-hassan-65a6a127b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:zeinabhassn123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
